@@ -4,7 +4,7 @@
 
 # GBIF Hosted Portal: hp-gelechiidae
 
-This Jekyll website, **[hp-gelechiidae](https://hp-gelechiidae.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+This Jekyll website, **[hp-gelechiidae](https://gelechiidae.hp.gbif-staging.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
