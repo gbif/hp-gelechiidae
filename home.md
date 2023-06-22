@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Gelechiidae of The World
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+description: "Gelechiidae (Twirler moth)) is one of the largest families in microlepidoptera, including more than 4,600 described species in the world." 
 background: /assets/images/pseudotelphusa.jpg
 imageLicense: |
   *None for this image* But else you could add it here along with a [link perhaps](https://www.gbif.org/occurrence/2542961803)
