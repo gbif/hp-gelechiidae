@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Gelechiidae of The World
-description: "Gelechiidae (Twirler moth)) is one of the largest families in microlepidoptera, including more than 4,600 described species in the world." 
+description: "A biodiversity data portal for the family Gelechiidae (Lepidoptera) in the world" 
 background: /assets/images/pseudotelphusa.jpg
 imageLicense: |
   *None for this image* But else you could add it here along with a [link perhaps](https://www.gbif.org/occurrence/2542961803)
