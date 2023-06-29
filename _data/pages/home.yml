@@ -1,0 +1,6 @@
+stats:
+  background: "#edf3f3"
+  features:
+    - title: <span data-ajax-url="https://api.gbif.org/v1/occurrence/search?familyKey=3553">453,132</span>
+      description: Species occurrences
+      href: /data
