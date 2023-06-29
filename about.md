@@ -1,7 +1,7 @@
 ---
 lang-ref: about
 title: Welcome to the Gelechiidae of the world
-background: /assets/images/moss.jpg
+background: assets/images/Isophrictis_striatella_ASUHIC0090390.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
@@ -10,9 +10,10 @@ height: 70vh
 
 Gelechiidae of the World is a network to facilitate access to biodiversity occurrence records published in the Global Biodiversity Information Facility (GBIF), and related information on the internet as well. The project aims to support the community through providing resources and information of Worldwide Gelechiidae species with data visualized.
 
-## Quam ex te videt
+## People
 
-Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
+Richard Brown
+Ronald W. HodgesQuam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
 cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
 ubi**.
 
