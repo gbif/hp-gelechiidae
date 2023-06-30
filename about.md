@@ -12,8 +12,7 @@ Gelechiidae of the World is a network to facilitate access to biodiversity occur
 
 ## People
 
-Richard Brown
-Ronald W. HodgesQuam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
+Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
 cognitus clipeo cognovit *vellent Acoetes prorae* infamataeque priori, **sit
 ubi**.
 
