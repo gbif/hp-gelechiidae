@@ -10,10 +10,10 @@
     href: /example-pages/simple
   - text: Complex
     href: /example-pages/complex
-- text: Links
+- text: Taxonnomy
   menu: # Dropdown menu (one level deep only)
-  - text: Base theme demo
-    href: https://hp-base-theme.gbif-staging.org/
+  - text: List of Genera
+    href: /taxonomy/genera
   - text: Other sites using the theme
     href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
