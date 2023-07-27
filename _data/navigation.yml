@@ -10,7 +10,7 @@
     href: /example-pages/simple
   - text: Complex
     href: /example-pages/complex
-- text: Taxonnomy
+- text: Taxonomy
   menu: # Dropdown menu (one level deep only)
   - text: List of Genera
     href: /taxonomy/genera
