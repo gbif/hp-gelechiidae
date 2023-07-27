@@ -5,8 +5,7 @@
 columns:
   - name: Partners
     links:
-    - text: This portal is a project of Sangmi Lee in the Gelechiidae Working Group, with the support of GBIF.
-      href: https://search.asu.edu/profile/1876693
+    - text: This portal is a project the Gelechiidae Working Group under the leadership of [Sangmi Lee] (https://search.asu.edu/profile/1876693), with the support of [GBIF] (https://www.gbif.org/).
 
   - name: Code
     description: | # Can be Markdown
