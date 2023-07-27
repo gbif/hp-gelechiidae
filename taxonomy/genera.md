@@ -12,7 +12,7 @@ height: 70vh
 toc: false
 ---
 
-<div class="overflow-auto table is-narrow" style="white-space: wrap;" markdown="block">
+<div class="overflow-auto table is-narrow" style="white-space: nowrap;" markdown="block">
   <table>
   {% assign sortedGenera = site.data.csv.Gelechiidae_Genera_07272023 | sort: "Genus" %}
   {% for row in sortedGenera %}
