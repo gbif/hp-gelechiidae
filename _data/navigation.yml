@@ -6,12 +6,6 @@
   href: /occurrence/search
 - text: Gallery
   href: /occurrence/search/?view=GALLERY
-  - text: Example pages
-  menu: # Dropdown menu (one level deep only)
-  - text: Simple
-    href: /example-pages/simple
-  - text: Complex
-    href: /example-pages/complex
 - text: Taxonomy
   menu: # Dropdown menu (one level deep only)
   - text: List of Genera
@@ -26,5 +20,4 @@
     href: https://guides.github.com/features/mastering-markdown/
   - text: YAML tutorial
     href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: News
-  href: /news/
+
