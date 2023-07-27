@@ -16,10 +16,7 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
-      Email `_config.yml`
-      # * Street name
-      # * 1234 postal code
-      # * Country
+      'Email'
     connectIcons: true
 
   # EXAMPLE
