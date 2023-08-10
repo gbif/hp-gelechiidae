@@ -12,10 +12,11 @@ Gelechiidae of the World is a network to facilitate access to biodiversity occur
 
 ## People
 
-Dr. Richard Brown
-ORCID # [https://orcid.org/0000-0001-9945-2039](https://orcid.org/0000-0001-9945-2039)
+Dr. Richard Brown |
+ORCID: [0000-0001-9945-2039](https://orcid.org/0000-0001-9945-2039)
 
-Dr. Sangmi Lee
+Dr. Sangmi Lee |
+ORCID: [0000-0002-9636-8242](http://orcid.org/0000-0002-9636-8242)
 
 
 Quam Erycina et celsoque trabes; torva, nec et alto egens. Vera ponentem
