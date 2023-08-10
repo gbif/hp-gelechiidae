@@ -16,7 +16,7 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
-      'Email'
+      * [Email](mailto:slee281@asu.edu)
     connectIcons: true
 
   # EXAMPLE
