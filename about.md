@@ -15,26 +15,38 @@ Gelechiidae of the World is a network to facilitate access to biodiversity occur
 Dr. Richard L. Brown, Emeritus Professor, W.L. Giles Distinguished Professor, Mississippi Entomological Museum, Mississippi State University, USA
 ORCID: [0000-0001-9945-2039](https://orcid.org/0000-0001-9945-2039)
 
-Dr. Donald Hobern | ORCID: [0000-0001-6492-4016](https://orcid.org/0000-0001-6492-4016)
+Dr. Donald Hobern
+ORCID: [0000-0001-6492-4016](https://orcid.org/0000-0001-6492-4016)
 
-Dr. Peter Huemer, Tiroler Landesmuseen | ORCID: [0000-0002-0630-545X](https://orcid.org/0000-0002-0630-545X)
+Dr. Peter Huemer, Tiroler Landesmuseen
+ORCID: [0000-0002-0630-545X](https://orcid.org/0000-0002-0630-545X)
 
-Dr. Lauri Kaila, Finnish Museum of Natural History, University of Helsinki, Finland | ORCID: [0000-0003-0277-1872](https://orcid.org/0000-0003-0277-1872)
+Dr. Lauri Kaila, Finnish Museum of Natural History, University of Helsinki, Finland
+ORCID: [0000-0003-0277-1872](https://orcid.org/0000-0003-0277-1872)
 
-Dr. Ole Karsholt, University of Copennagen, Denmark | ORCID: [0000-0002-6969-2549](https://orcid.org/0000-0002-6969-2549)
+Dr. Ole Karsholt, University of Copennagen, Denmark
+ORCID: [0000-0002-6969-2549](https://orcid.org/0000-0002-6969-2549)
 
-Dr. Sangmi Lee, ASU Natural History Collections, Arizona State University, USA | ORCID: [0000-0002-9636-8242](http://orcid.org/0000-0002-9636-8242)
+Dr. Sangmi Lee, ASU Natural History Collections, Arizona State University, USA
+ORCID: [0000-0002-9636-8242](http://orcid.org/0000-0002-9636-8242)
 
-Dr. Mark Metz | ORCID: [0000-0002-3535-535X](https://orcid.org/0000-0002-3535-535X)
+Dr. Mark Metz
+ORCID: [0000-0002-3535-535X](https://orcid.org/0000-0002-3535-535X)
 
-Dr. Bidzilya Oleksiy, Institute for Evolutionary Ecology, National Academy of Sciences of Ukraine, Ukraine | ORCID: [0000-0001-9243-2481](https://orcid.org/0000-0001-9243-2481)
+Dr. Bidzilya Oleksiy, Institute for Evolutionary Ecology, National Academy of Sciences of Ukraine, Ukraine
+ORCID: [0000-0001-9243-2481](https://orcid.org/0000-0001-9243-2481)
 
-Dr. Kyu-Tek Park, Republic of Korea | ORCID: [0000-0001-9933-4497](https://orcid.org/0000-0001-9933-4497)
+Dr. Kyu-Tek Park, Republic of Korea
+ORCID: [0000-0001-9933-4497](https://orcid.org/0000-0001-9933-4497)
 
-Dr. Krause Sattler |
+Dr. Krause Sattler
+ORCID: 
 
-Dr. James Young, USA | ORCID: [0000-0002-1096-5821](https://orcid.org/0000-0002-1096-5821)
+Dr. James Young, USA
+ORCID: [0000-0002-1096-5821](https://orcid.org/0000-0002-1096-5821)
 
-Dr. Terry Harrison, USA | ORCID: 
+Dr. Terry Harrison, USA
+ORCID: 
 
-James Vargo, USA | ORCID: 
+James Vargo, USA
+ORCID: 
