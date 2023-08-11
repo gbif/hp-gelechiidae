@@ -12,7 +12,7 @@ Gelechiidae of the World is a network to facilitate access to biodiversity occur
 
 ## People
 
-Dr. Richard L. Brown, Emeritus Professor, W.L. Giles Distinguished Professor, Mississippi Entomological Museum, Mississippi State University, USA
+Dr. Richard L. Brown, Emeritus Professor, W.L. Giles Distinguished Professor, Mississippi Entomological Museum, Mississippi State University, USA \
 ORCID: [0000-0001-9945-2039](https://orcid.org/0000-0001-9945-2039)
 
 Dr. Donald Hobern
