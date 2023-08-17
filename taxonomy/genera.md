@@ -7,7 +7,7 @@ lang-ref: genera
 title: List of Gelechiidae Genera
 background: /assets/images/Isophrictis_striatella_ASUHIC0090390.jpg
 imageLicense: |
-  *None for this image* But else you could add it here along with a [link perhaps](https://www.gbif.org/occurrence/2542961803)
+  Photo by Sangmi Lee via [ASUHIC](https://www.gbif.org/occurrence/2542961803)
 height: 70vh
 toc: false
 ---
