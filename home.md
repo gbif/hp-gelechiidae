@@ -17,4 +17,5 @@ composition:
   - type: heroImage
   - type: stats
     data: pages.home.stats
+parallax: true
 ---
