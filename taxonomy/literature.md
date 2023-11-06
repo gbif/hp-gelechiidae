@@ -14,8 +14,7 @@ toc: false
 
 <div class="overflow-auto table is-narrow" markdown="block">
   <table>
-  {% assign authors = site.data.csv.Gelechiidae-Reference-August2023.csv | group_by: "Authors" %}
-  {% assign sortedAuthors = authors | sort: "Year" %}
+  {% assign sortedAuthors = site.data.csv.Gelechiidae-Reference-August2023.csv | group_by: "Authors" | sort: "Year" %}
   {% for row in sortedAuthors %}
   {% if forloop.first %}
   
