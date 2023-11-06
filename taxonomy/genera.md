@@ -1,5 +1,5 @@
 ---
-layout: documentation
+layout: compose
 composition:
     - type: postHeader
     - type: pageMarkdown
