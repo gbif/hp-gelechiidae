@@ -10,14 +10,14 @@
   menu: # Dropdown menu (one level deep only)
   - text: List of Genera
     href: /taxonomy/genera
-  - text: Other sites using the theme
-    href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Docs" # Title for block of menu items
-  - text: Jekyll documentation
-    href: https://jekyllrb.com/docs/pages/
-  - text: Markdown tutorial
-    href: https://guides.github.com/features/mastering-markdown/
-  - text: YAML tutorial
-    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+##  - text: Other sites using the theme
+##    href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
+##  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+##  - text: "Docs" # Title for block of menu items
+##  - text: Jekyll documentation
+##    href: https://jekyllrb.com/docs/pages/
+##  - text: Markdown tutorial
+##    href: https://guides.github.com/features/mastering-markdown/
+##  - text: YAML tutorial
+##    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 
