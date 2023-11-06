@@ -4,7 +4,7 @@ composition:
     - type: postHeader
     - type: pageMarkdown
 lang-ref: literature
-title: List of Literature
+title: Literature
 background: /assets/images/Isophrictis_striatella_ASUHIC0090390.jpg
 imageLicense: |
   Photo by Sangmi Lee via [ASUHIC](https://www.gbif.org/occurrence/2542961803)
