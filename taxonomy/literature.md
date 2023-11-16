@@ -5,7 +5,7 @@ composition:
     - type: pageMarkdown
 lang-ref: literature
 title: Literature
-background: /assets/images/Isophrictis_striatella_ASUHIC0090390.jpg
+background: /assets/images/Aristotelia_hexcopa_ASUHIC0090317.jpg
 imageLicense: |
   Photo by Sangmi Lee via [ASUHIC](https://www.gbif.org/occurrence/2542961803)
 height: 70vh
