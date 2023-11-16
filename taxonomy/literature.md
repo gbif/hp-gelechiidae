@@ -14,7 +14,7 @@ toc: false
 
 <div class="overflow-auto table is-narrow" markdown="block">
   <table>
-  {% assign sortedAuthors = site.data.csv.Gelechiidae-Reference-August2023 %}
+  {% assign sortedAuthors = site.data.csv.Gelechiidae-Reference-August2023 | sort: "Authors" %}
   {% for row in sortedAuthors %}
   {% if forloop.first %}
   
