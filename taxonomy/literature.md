@@ -13,7 +13,6 @@ height: 70vh
 toc: false
 ---
 
-
 {% assign sortedLit = site.data.csv.Gelechiidae-Reference-August2023 | sort: "Authors" %}
 {% for item in sortedLit %}
 {% for pair in item %}
@@ -26,5 +25,43 @@ toc: false
 {% endif %}
 {% endfor %}
 {% endfor %}
-{{ firstCharList | inspect }}
- 
+
+<div class="overflow-auto table is-narrow" markdown="block">
+<table class="table is-narrow is-striped is-hoverable is-fullwidth">
+<thead>
+<tr>
+<th class="has-text-centered" colspan="3" id="{{ char }}">{{ char }}</th>
+</tr>
+<tr>
+<th class="has-text-centered">Authors</th>
+<th>Year</th>
+<th>Title</th>
+</tr>
+</thead>
+<tbody>
+{% for item in sortedLit %}
+{% for pair in item %}
+{% assign key = pair[0] %}
+{% assign val = pair[1] %}
+{% if key == "Authors" %}
+{% assign firstChar = val | slice: 0 %}
+{% if firstChar == char %}
+<tr>
+<td class="has-text-centered">{{ item.Authors }}</td>
+<td>{{ item.Year }}</td>
+  {% if item.Link != nil %}
+   <td><a href="{{item.Link}}" target="_blank">{{ item.Title | strip }}</a></td>
+  {% else %}
+  <td>{{ item.Title | strip }}</td>
+  {% endif %}
+ </tr>
+ {% endif %}
+ {% endif %}
+ {% endfor %}
+ {% endfor %}
+ </tbody>
+ </table>
+ </div>
+ {% endfor %}
+ </div>
+
