@@ -49,7 +49,7 @@ toc: false
 {% assign firstChar = val | slice: 0 %}
 {% if firstChar == char %}
 <tr>
-<td class="has-text-centered">{{ item.Authors }}</td>
+<td>{{ item.Authors }}</td>
 <td>{{ item.Year }}</td>
   {% if item.Link != nil %}
    <td><a href="{{ item.Link }}" target="_blank">{{ item.Title | strip }}</a></td>
