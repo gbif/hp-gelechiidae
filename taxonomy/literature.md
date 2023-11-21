@@ -1,5 +1,6 @@
 ---
-layout: compose
+layout: documentation
+sideNavigation: sidenav.literature
 composition:
     - type: postHeader
     - type: pageMarkdown
@@ -12,22 +13,18 @@ height: 70vh
 toc: false
 ---
 
-<div class="overflow-auto table is-narrow" markdown="block">
-  <table>
-  {% assign sortedAuthors = site.data.csv.Gelechiidae-Reference-August2023 | sort: "Authors" %}
-  {% for row in sortedAuthors %}
-  {% if forloop.first %}
-  
-  <tr>
-  {% for pair in row %}
-  <th>{{ pair[0] }} </th>
-  {% endfor %}
-  </tr>
-  {% endif %}
 
-      {% tablerow pair in row %}
-        {{ pair[1] }}
-      {% endtablerow %}
-  {% endfor %}
-  </table>
-</div>
+{% assign sortedLit = site.data.csv.Gelechiidae-Reference-August2023 | sort: "Authors" %}
+{% for item in sortedLit %}
+{% for pair in item %}
+{% assign key = pair[0] %}
+{% assign val = pair[1] %}
+{% if key == "Authors" %}
+{% assign firstChar = val | slice: 0 %}
+{% assign firstCharList = firstCharList | push: firstChar %}
+{% assign firstCharList = firstCharList | uniq %}
+{% endif %}
+{% endfor %}
+{% endfor %}
+{{ firstCharList | inspect }}
+ 
