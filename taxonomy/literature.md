@@ -26,6 +26,8 @@ toc: false
 {% endfor %}
 {% endfor %}
 
+{% for char in firstCharList %}
+
 <div class="overflow-auto table is-narrow" markdown="block">
 <table class="table is-narrow is-striped is-hoverable is-fullwidth">
 <thead>
@@ -50,7 +52,7 @@ toc: false
 <td class="has-text-centered">{{ item.Authors }}</td>
 <td>{{ item.Year }}</td>
   {% if item.Link != nil %}
-   <td><a href="{{item.Link}}" target="_blank">{{ item.Title | strip }}</a></td>
+   <td><a href="{{ item.Link }}" target="_blank">{{ item.Title | strip }}</a></td>
   {% else %}
   <td>{{ item.Title | strip }}</td>
   {% endif %}
