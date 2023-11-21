@@ -65,5 +65,4 @@ toc: false
  </table>
  </div>
  {% endfor %}
- </div>
 
