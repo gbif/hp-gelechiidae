@@ -8,6 +8,8 @@
   href: /occurrence/search/?view=GALLERY
 - text: Taxonomy
   menu: # Dropdown menu (one level deep only)
+  - text: Browse
+    href: /taxonomy/browse
   - text: List of Genera
     href: /taxonomy/genera
   - text: Literature
