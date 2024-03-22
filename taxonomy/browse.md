@@ -1,11 +1,13 @@
 ---
-layout: documentation
+layout: compose
+composition:
+    - type: postHeader
+    - type: pageMarkdown
 #sideNavigation: sidenav.taxonomy
 title: Browse
 permalink: /taxonomy/browse
 description: Browse the checklist of Gelechiidae
 klass: fullwidth
-lang-ref: species-browse
 ---
 
 <!-- You can download the latest version of the Gele list in .txt (with DarwinCore fields) from the [Catalogue of Life ChecklistBank](https://data.catalogueoflife.org/dataset/2304/about) and in Word format [here](/media/WCVP_Fabaceae_checklist_May_2022.docx). -->
