@@ -106,3 +106,11 @@ defaults:
     values:
       layout: "post"
       permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+
+col:
+    gbifDatasetKey: f666b7b9-18dd-4600-b051-3ee1e44b0254
+    version: "1.1.24.53" # There is no latest version we can get, so we have to rely on a specific version. If the site appears broken, then this probably needs to be updated to the latest version
+    catalogueKey: "2362" #WCVP Fabaceae dataset
+    defaultTaxonKey: "x4"
+    #catalogueKey: "2232" entire WCVP dataset
+    #defaultTaxonKey: "x4VX" # This value have been observed to change over time, this value goes with catalogueKey = 2232
