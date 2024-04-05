@@ -34,7 +34,7 @@ Dr. Mark Metz, USA \
 ORCID: [0000-0002-3535-535X](https://orcid.org/0000-0002-3535-535X)
 
 Dr. Marko Mutanen, Department of Ecology and Genetics, University of Oulu, Finland \
-ORCID: [0000-0003-4464-6308] (https://orcid.org/0000-0003-4464-6308)
+ORCID: [0000-0003-4464-6308](https://orcid.org/0000-0003-4464-6308)
 
 Dr. Bidzilya Oleksiy, Institute for Evolutionary Ecology, National Academy of Sciences of Ukraine, Ukraine \
 ORCID: [0000-0001-9243-2481](https://orcid.org/0000-0001-9243-2481)
