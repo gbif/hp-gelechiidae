@@ -18,7 +18,7 @@ ORCID: [0000-0001-9945-2039](https://orcid.org/0000-0001-9945-2039)
 Dr. Donald Hobern \
 ORCID: [0000-0001-6492-4016](https://orcid.org/0000-0001-6492-4016)
 
-Dr. Peter Huemer, Tiroler Landesmuseen \
+Dr. Peter Huemer, Tiroler Landesmuseen, Austria \
 ORCID: [0000-0002-0630-545X](https://orcid.org/0000-0002-0630-545X)
 
 Dr. Lauri Kaila, Finnish Museum of Natural History, University of Helsinki, Finland \
@@ -47,6 +47,6 @@ Dr. Krause Sattler
 Dr. James Young, USA \
 ORCID: [0000-0002-1096-5821](https://orcid.org/0000-0002-1096-5821)
 
-Dr. Terry Harrison, USA
+Dr. Terry Harrison, USA \
 
-James Vargo, USA 
+James Vargo, USA \
