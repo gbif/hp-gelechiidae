@@ -1,7 +1,10 @@
 ---
-layout: documentation
-sideNavigation: sidenav.taxonomy
-title: Taxon
+layout: compose
+composition:
+    - type: postHeader
+    - type: pageMarkdown
+##sideNavigation: sidenav.taxonomy
+title: Advanced taxon search
 permalink: /taxonomy/taxon
 ---
 
