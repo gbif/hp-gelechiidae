@@ -1,6 +1,9 @@
 ---
-layout: documentation
-sideNavigation: sidenav.taxonomy
+layout: compose
+composition:
+    - type: postHeader
+    - type: pageMarkdown
+##sideNavigation: sidenav.taxonomy
 title: Taxon
 permalink: /taxonomy/search
 description: Search the checklist of Gelechiidae
