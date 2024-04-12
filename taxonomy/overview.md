@@ -1,6 +1,5 @@
 ---
 lang-ref: overview
-title: Welcome to the Gelechiidae of the world
 background: assets/images/Isophrictis_striatella_ASUHIC0090390.jpg
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
