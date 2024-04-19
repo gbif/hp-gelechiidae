@@ -1,7 +1,7 @@
 ---
 lang-ref: overview
 title: Overview
-background: /assets/images/Isophrictis_striatella_ASUHIC0090390.jpg
+background: /assets/images/Calliprora_sexstrigella_ASUHIC0090306.jpg
 imageLicense: |
   Photo by Sangmi Lee via [ASUHIC](https://www.gbif.org/occurrence/2542961803)
 height: 70vh
