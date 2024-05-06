@@ -32,7 +32,7 @@ toc: false
 <table class="table is-narrow is-striped is-hoverable is-fullwidth">
 <thead>
 <tr>
-<th class="has-text-centered" colspan="3" id="{{ char }}">{{ char }}</th>
+<th class="has-text-centered" colspan="4" id="{{ char }}">{{ char }}</th>
 </tr>
 <tr>
 <th class="has-text-centered">Host Plant Full Name</th>
@@ -53,9 +53,8 @@ toc: false
 <td>{{ item["Host full name"] }}</td>
 <td>{{ item.Rank }}</td>
 <td>{{ item["COL status"] }}</td>
-<td>{{ item["COL taxon page"] }}</td>
   {% if item["COL taxon page"] != nil %}
-   <td><a href="{{ item['COL taxon page'] }}" target="_blank">{{ item['COL taxon page'] | strip }}</a></td>
+   <td><a href="{{ item['COL taxon page'] }}" target="_blank">{{ item["COL taxon page"] | strip }}</a></td>
   {% else %}
   <td>{{ item["COL taxon page"] | strip }}</td>
   {% endif %}
