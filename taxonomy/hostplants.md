@@ -13,7 +13,7 @@ height: 70vh
 toc: false
 ---
 
-{% assign sortedLit = site.data.csv.Gelechiidae_Hostplants_06May2024 | sort: "Host full name" %}
+{% assign sortedLit = site.data.csv.Gelechiidae_HostPlants_06May2024 | sort: "Host full name" %}
 {% for item in sortedLit %}
 {% for pair in item %}
 {% assign key = pair[0] %}
