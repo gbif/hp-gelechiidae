@@ -15,6 +15,9 @@ Gelechiidae of the World is a network to facilitate access to biodiversity occur
 Dr. Richard L. Brown, Mississippi Entomological Museum, Mississippi State University, USA \
 ORCID: [0000-0001-9945-2039](https://orcid.org/0000-0001-9945-2039)
 
+Charles Eiseman, USA \
+ORCID: [0000-0001-5496-9114] (https://orcid.org/0000-0001-5496-9114)
+
 Dr. Donald Hobern, Australian Plant Phenomics Facility, Australia \
 ORCID: [0000-0001-6492-4016](https://orcid.org/0000-0001-6492-4016)
 
@@ -42,11 +45,11 @@ ORCID: [0000-0001-9243-2481](https://orcid.org/0000-0001-9243-2481)
 Dr. Kyu-Tek Park, Republic of Korea \
 ORCID: [0000-0001-9933-4497](https://orcid.org/0000-0001-9933-4497)
 
-Dr. Krause Sattler, Natural History Museum London, England \
+Dr. Krause Sattler, Natural History Museum London, England
 
 Dr. James Young, USDA, APHIS, Smithsonian National Museum of Natural History, USA \
 ORCID: [0000-0002-1096-5821](https://orcid.org/0000-0002-1096-5821)
 
-Dr. Terry Harrison, University of Illinois, USA \
+Dr. Terry Harrison, University of Illinois, USA
 
-James Vargo, USA \
+James Vargo, USA
