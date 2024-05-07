@@ -16,7 +16,7 @@ Dr. Richard L. Brown, Mississippi Entomological Museum, Mississippi State Univer
 ORCID: [0000-0001-9945-2039](https://orcid.org/0000-0001-9945-2039)
 
 Charles Eiseman, USA \
-ORCID: [0000-0001-5496-9114] (https://orcid.org/0000-0001-5496-9114)
+ORCID: [0000-0001-5496-9114](https://orcid.org/0000-0001-5496-9114)
 
 Dr. Donald Hobern, Australian Plant Phenomics Facility, Australia \
 ORCID: [0000-0001-6492-4016](https://orcid.org/0000-0001-6492-4016)
