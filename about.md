@@ -30,6 +30,9 @@ ORCID: [0000-0003-0277-1872](https://orcid.org/0000-0003-0277-1872)
 Dr. Ole Karsholt, University of Copennagen, Denmark \
 ORCID: [0000-0002-6969-2549](https://orcid.org/0000-0002-6969-2549)
 
+Dr. Jean-François Landry, Agriculture and Agri-Food Canada, Canada \
+ORCID: [0000-0001-9671-219X](https://orcid.org/0000-0001-9671-219X)
+
 Dr. Sangmi Lee, ASU Natural History Collections, Arizona State University, USA \
 ORCID: [0000-0002-9636-8242](http://orcid.org/0000-0002-9636-8242)
 
