@@ -59,7 +59,7 @@ toc: false
   {% else %}
   <td>{{ item["COL taxon page"] | strip }}</td>
   {% endif %}
-  <td>{{ item["Gelechiidae species name"] }}</td>
+  <td>{{ item["Gelechiidae species name"] | strip }}</td>
  </tr>
  {% endif %}
  {% endif %}
