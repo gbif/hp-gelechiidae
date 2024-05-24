@@ -39,6 +39,7 @@ toc: false
 <th>Rank</th>
 <th>COL status</th>
 <th>COL taxon page</th>
+<th>Gelechiidae Species</th>
 </tr>
 </thead>
 <tbody>
@@ -58,6 +59,7 @@ toc: false
   {% else %}
   <td>{{ item["COL taxon page"] | strip }}</td>
   {% endif %}
+  <td>{{ item["Gelechiidae species name"] }}</td>
  </tr>
  {% endif %}
  {% endif %}
