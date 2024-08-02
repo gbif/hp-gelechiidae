@@ -1,3 +1,4 @@
+---
 lang-ref: hosts
 title: Dashboard
 description: We publish open data
@@ -39,3 +40,4 @@ config:
       collectionKey,
       institutionKey,
     ]
+---
