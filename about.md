@@ -36,6 +36,8 @@ ORCID: [0000-0001-9671-219X](https://orcid.org/0000-0001-9671-219X)
 Dr. Sangmi Lee, ASU Natural History Collections, Arizona State University, USA \
 ORCID: [0000-0002-9636-8242](http://orcid.org/0000-0002-9636-8242)
 
+Dr. David Lees, Natural History Museum, London, United Kingdom
+
 Dr. Mark Metz, USDA, ARS, Systematic Entomology Laboratory, Smithsonian National Museum of Natural History, USA \
 ORCID: [0000-0002-3535-535X](https://orcid.org/0000-0002-3535-535X)
 
@@ -48,7 +50,7 @@ ORCID: [0000-0001-9243-2481](https://orcid.org/0000-0001-9243-2481)
 Dr. Kyu-Tek Park, Republic of Korea \
 ORCID: [0000-0001-9933-4497](https://orcid.org/0000-0001-9933-4497)
 
-Dr. Krause Sattler, Natural History Museum London, England
+Dr. Krause Sattler, Natural History Museum London, United Kingdom
 
 Dr. James Young, USDA, APHIS, Smithsonian National Museum of Natural History, USA \
 ORCID: [0000-0002-1096-5821](https://orcid.org/0000-0002-1096-5821)
