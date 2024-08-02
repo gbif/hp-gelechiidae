@@ -6,6 +6,7 @@ composition:
     - type: pageMarkdown
 lang-ref: hostplants
 title: Host Plants
+description: Based on Gaden S. Robinson; Phillip R. Ackery; Ian Kitching; George W Beccaloni; Luis M. Hernández (2023). HOSTS - a Database of the World's Lepidopteran Hostplants [Data set]. Natural History Museum. https://doi.org/10.5519/havt50xw
 klass: narrow
 background: /assets/images/Aristotelia_hexcopa_ASUHIC0090317.jpg
 imageLicense: |
