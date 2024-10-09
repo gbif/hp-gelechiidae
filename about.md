@@ -3,10 +3,9 @@ lang-ref: about
 title: Welcome to the Gelechiidae of the world
 background: assets/images/Isophrictis_striatella_ASUHIC0090390.jpg
 imageLicense: |
-  Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
+  Copyright Sangmi Lee
 height: 70vh
 ---
-
 
 Gelechiidae of the World is a network to facilitate access to biodiversity occurrence records published in the Global Biodiversity Information Facility (GBIF), and related information on the internet as well. The project aims to support the community through providing resources and information of Worldwide Gelechiidae species with data visualized.
 
