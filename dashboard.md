@@ -1,7 +1,6 @@
 ---
-lang-ref: hosts
 title: Dashboard
-description: We publish open data
+description: GBIF Data Graphs
 layout: compose
 composition:
   - type: dashboard
@@ -9,7 +8,7 @@ config:
   charts:
     [
       iucn,
-      license
+      license,
       basisOfRecord,
       year,
       synonyms,
