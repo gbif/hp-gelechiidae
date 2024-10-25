@@ -7,7 +7,7 @@ composition:
 lang-ref: literature
 title: Literature
 klass: "narrow"
-background: ./assets/images/Aristotelia_hexcopa_ASUHIC0090317.jpg
+background: ./assets/images/Friseria_caieta_ASUHIC0090852.jpg
 imageLicense: |
   Photo by Sangmi Lee via [ASUHIC](https://www.gbif.org/occurrence/2542961803)
 height: 70vh
