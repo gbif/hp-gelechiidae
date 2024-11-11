@@ -52,8 +52,23 @@ toc: false
 {% assign firstChar = val | slice: 0 %}
 {% if firstChar == char %}
 <tr>
-  <td><em>{{ item["Gelechiidae species name"] }}</em></td>
-  <td>{{ item["Host Plants"] }}</td>
+  {% if item["Gelechiidae species name"] contains ";" %}
+    {% assign speciesList = item["Gelechiidae species name"] | split: ";" %}
+    <td>
+    {% for species in speciesList %}
+      {% assign speciesArray = species | strip | split: " " %}
+      {% assign authorName = speciesArray | last %}
+      {% assign speciesName = species | remove: authorName %}
+      <em>{{ speciesName }}</em> {{ authorName }}{% if forloop.last == false %}; {% endif %}
+    {% endfor %}
+    </td>
+  {% else %}
+    {% assign speciesArray = item["Gelechiidae species name"] | strip | split: " " %}
+    {% assign authorName = speciesArray | last %}
+    {% assign speciesName = item["Gelechiidae species name"] | remove: authorName %}
+    <td><em>{{ speciesName }}</em> {{ authorName }}</td>
+  {% endif %}
+  <td><em>{{ item["Host Plants"] }}</em></td>
   {% if item["GBIF taxonKey"] != nil %}
   <td><a href="../hosts/?taxonKey={{ item['GBIF taxonKey'] }}" target="_blank">🔗</a></td>
   {% else %}
