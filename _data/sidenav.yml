@@ -54,55 +54,109 @@ literature:
         path: /taxonomy/literature#Z
 hostplants:
   - content:
-      - title: Hostplants
-        path: /taxonomy/hostplants
+      - title: Host Plants by Plant
+        path: /hostplants/hostplants
   - grouptitle: Alphabetical Index
     content:
       - title: A
-        path: /taxonomy/hostplants#A
+        path: /hostplants/hostplants#A
       - title: B
-        path: /taxonomy/hostplants#B
+        path: /hostplants/hostplants#B
       - title: C
-        path: /taxonomy/hostplants#C
+        path: /hostplants/hostplants#C
       - title: D
-        path: /taxonomy/hostplants#D
+        path: /hostplants/hostplants#D
       - title: E
-        path: /taxonomy/hostplants#E
+        path: /hostplants/hostplants#E
       - title: F
-        path: /taxonomy/hostplants#F
+        path: /hostplants/hostplants#F
       - title: G
-        path: /taxonomy/hostplants#G
+        path: /hostplants/hostplants#G
       - title: H
-        path: /taxonomy/hostplants#H
+        path: /hostplants/hostplants#H
       - title: I
-        path: /taxonomy/hostplants#I
+        path: /hostplants/hostplants#I
       - title: J
-        path: /taxonomy/hostplants#J
+        path: /hostplants/hostplants#J
       - title: K
-        path: /taxonomy/hostplants#K
+        path: /hostplants/hostplants#K
       - title: L
-        path: /taxonomy/hostplants#L
+        path: /hostplants/hostplants#L
       - title: M
-        path: /taxonomy/hostplants#M
+        path: /hostplants/hostplants#M
       - title: N
-        path: /taxonomy/hostplants#N
+        path: /hostplants/hostplants#N
       - title: O
-        path: /taxonomy/hostplants#O
+        path: /hostplants/hostplants#O
       - title: P
-        path: /taxonomy/hostplants#P
+        path: /hostplants/hostplants#P
       - title: R
-        path: /taxonomy/hostplants#R
+        path: /hostplants/hostplants#R
       - title: S
-        path: /taxonomy/hostplants#S
+        path: /hostplants/hostplants#S
       - title: T
-        path: /taxonomy/hostplants#T
+        path: /hostplants/hostplants#T
       - title: U
-        path: /taxonomy/hostplants#U
+        path: /hostplants/hostplants#U
       - title: V
-        path: /taxonomy/hostplants#V
+        path: /hostplants/hostplants#V
       - title: W
-        path: /taxonomy/hostplants#W
+        path: /hostplants/hostplants#W
       - title: Y
-        path: /taxonomy/hostplants#Y
+        path: /hostplants/hostplants#Y
       - title: Z
-        path: /taxonomy/hostplants#Z
+        path: /hostplants/hostplants#Z
+hostplantsbymoth:
+  - content:
+      - title: Host Plants by Moth
+        path: /hostplants/hostsbymoth
+  - grouptitle: Alphabetical Index
+    content:
+      - title: A
+        path: /hostplants/hostsbymoth#A
+      - title: B
+        path: /hostplants/hostsbymoth#B
+      - title: C
+        path: /hostplants/hostsbymoth#C
+      - title: D
+        path: /hostplants/hostsbymoth#D
+      - title: E
+        path: /hostplants/hostsbymoth#E
+      - title: F
+        path: /hostplants/hostsbymoth#F
+      - title: G
+        path: /hostplants/hostsbymoth#G
+      - title: H
+        path: /hostplants/hostsbymoth#H
+      - title: I
+        path: /hostplants/hostsbymoth#I
+      - title: J
+        path: /hostplants/hostsbymoth#J
+      - title: K
+        path: /hostplants/hostsbymoth#K
+      - title: L
+        path: /hostplants/hostsbymoth#L
+      - title: M
+        path: /hostplants/hostsbymoth#M
+      - title: N
+        path: /hostplants/hostsbymoth#N
+      - title: O
+        path: /hostplants/hostsbymoth#O
+      - title: P
+        path: /hostplants/hostsbymoth#P
+      - title: R
+        path: /hostplants/hostsbymoth#R
+      - title: S
+        path: /hostplants/hostsbymoth#S
+      - title: T
+        path: /hostplants/hostsbymoth#T
+      - title: U
+        path: /hostplants/hostsbymoth#U
+      - title: V
+        path: /hostplants/hostsbymoth#V
+      - title: W
+        path: /hostplants/hostsbymoth#W
+      - title: Y
+        path: /hostplants/hostsbymoth#Y
+      - title: Z
+        path: /hostplants/hostsbymoth#Z

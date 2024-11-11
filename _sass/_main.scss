@@ -1,10 +1,44 @@
-@import "theme/_main";
+@import 'theme/_main';
 
 // You can add additional styling here
 .narrow .pageNavbar {
-    flex: 0 0 190px !important;
+  flex: 0 0 190px !important;
 }
 
 .narrow .article {
-    max-width: 97% !important;
+  max-width: 97% !important;
+}
+
+@import '../../leaflet.css';
+
+.insect-hosts-map {
+  h1 {
+    text-align: center;
+  }
+
+  #insect-hosts-map {
+    height: 500px;
+  }
+
+  .article {
+    max-width: 100% !important;
+  }
+
+  #before-map {
+    max-width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    align-items: center;
+  }
+}
+.wide-table {
+  .article {
+    max-width: 76% !important;
+  }
+  .pageNavbar {
+    flex: 0 0 180px !important;
+    text-align: center;
+  }
 }

@@ -16,10 +16,14 @@
     href: /taxonomy/search
   - text: List of Genera
     href: /taxonomy/genera
-  - text: Host Plants
-    href: /taxonomy/hostplants
   - text: Literature
     href: /taxonomy/literature
+- text: Host Plants
+    menu: # Dropdown menu (one level deep only)
+    - text: By Plant
+      href: /hostplants/hostplants
+    - text: By Moth
+      href: /hostplants/hostsbymoth
 - text: Dashboard
   href: /dashboard    
 ##  - text: Other sites using the theme
