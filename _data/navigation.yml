@@ -8,24 +8,24 @@
   href: /occurrence/search/?view=GALLERY
 - text: Taxonomy
   menu: # Dropdown menu (one level deep only)
-  - text: Overview
-    href: /taxonomy/overview
-  - text: Browse
-    href: /taxonomy/browse
-  - text: Advanced search
-    href: /taxonomy/search
-  - text: List of Genera
-    href: /taxonomy/genera
-  - text: Literature
-    href: /taxonomy/literature
+    - text: Overview
+      href: /taxonomy/overview
+    - text: Browse
+      href: /taxonomy/browse
+    - text: Advanced search
+      href: /taxonomy/search
+    - text: List of Genera
+      href: /taxonomy/genera
+    - text: Literature
+      href: /taxonomy/literature
 - text: Host Plants
-    menu: # Dropdown menu (one level deep only)
+  menu: # Dropdown menu (one level deep only)
     - text: By Plant
       href: /hostplants/hostplants
     - text: By Moth
       href: /hostplants/hostsbymoth
 - text: Dashboard
-  href: /dashboard    
+  href: /dashboard
 ##  - text: Other sites using the theme
 ##    href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
 ##  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
@@ -34,5 +34,4 @@
 ##    href: https://jekyllrb.com/docs/pages/
 ##  - text: Markdown tutorial
 ##    href: https://guides.github.com/features/mastering-markdown/
-
 
