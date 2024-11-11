@@ -106,7 +106,7 @@ hostplants:
         path: /hostplants/hostplants#Y
       - title: Z
         path: /hostplants/hostplants#Z
-hostplantsbymoth:
+hostsbymoth:
   - content:
       - title: Host Plants by Moth
         path: /hostplants/hostsbymoth

@@ -1,10 +1,10 @@
 ---
 layout: documentation
-sideNavigation: sidenav.hostplants
+sideNavigation: sidenav.hostsbymoth
 composition:
   - type: postHeader
   - type: pageMarkdown
-lang-ref: hostplants
+lang-ref: hostsbymoth
 title: Host Plants of Gelechiidae (by moth species)
 description: Based on Gaden S. Robinson; Phillip R. Ackery; Ian Kitching; George W Beccaloni; Luis M. Hernández (2023). HOSTS - a Database of the World's Lepidopteran Hostplants [Data set]. Natural History Museum. https://doi.org/10.5519/havt50xw
 klass: narrow
